@@ -1,0 +1,9 @@
+# Profile Enhancement Merge Template for Clash Verge
+
+profile:
+  store-selected: true
+
+dns:
+  # 禁用系统 hosts 文件
+  # 在 fake-ip 模式下，use-system-hosts: false 是推荐配置
+  use-system-hosts: true
